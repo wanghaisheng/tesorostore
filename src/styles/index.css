@@ -1,0 +1,79 @@
+@font-face {
+    font-family: "disabled";   /*Van*/
+    src: local("VanillaRavioli"),
+      url("./../../public/assets/fonts/VanillaRavioli/VanillaRavioli.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "disabled";   /*Hap*/
+  src: local("GTHaptikBoldRegular"),
+    url("./../../public/assets/fonts/GTHaptik/GTHaptikBoldRegular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Van';
+  src: local("JosefinSans"),
+    url("./../../public/assets/fonts/Josefin_Sans/JosefinSans.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Hap';
+  src: local("JosefinSans"),
+    url("./../../public/assets/fonts/Josefin_Sans/JosefinSans.ttf") format("truetype");
+}
+
+
+@font-face {
+  font-family: 'disabled';
+  src: local("Inter.ttf"),
+    url("./../../public/assets/fonts/Inter/Inter.ttf") format("truetype");
+}
+
+
+@font-face {
+  font-family: 'disabled';
+  src: local("Inter.ttf"),
+    url("./../../public/assets/fonts/Inter/Inter.ttf") format("truetype");
+}
+
+
+@font-face {
+  font-family: 'pfdisplay';
+  src: local("PlayfairDisplay.ttf"),
+    url("./../../public/assets/fonts/PlayfairDisplay/PlayfairDisplay.ttf") format("truetype");
+}
+
+@media only screen and (max-width: 600px){
+  /* .for-mobile{
+    display: block;
+  } */
+  .for-desktop{
+    display: none!important;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .for-mobile{
+    display: none;
+  }
+  /* .for-desktop{
+    display: block;
+  } */
+}
+/* 
+
+@font-face {
+  font-family: 'disabled';
+  src: local("Inter.ttf"),
+    url("./../../public/assets/fonts/Inter/Inter.ttf") format("truetype");
+} */
+
+/* Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

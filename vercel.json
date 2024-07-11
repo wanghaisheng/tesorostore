@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "pages/**": {
+      "maxDuration": 9
+    }
+  },
+  "env": {
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "Put your api endpoint here"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "Put your api endpoint here"
+    }
+  }
+}

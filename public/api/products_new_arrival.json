@@ -1,0 +1,1122 @@
+[
+  {
+    "id": 1,
+    "name": "Homey Shoes",
+    "description": "The Best gift for your loved ones",
+    "slug": "armani-veni-vidi-vici",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/new-images/1dcee9b7-f7ea-4664-a0be-3efd31086cbb.jpg",
+      "original": "/assets/images/new-images/1dcee9b7-f7ea-4664-a0be-3efd31086cbb.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-11-1.png",
+        "original": "/assets/images/products/p-11-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-11-2.png",
+        "original": "/assets/images/products/p-11-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-11-3.png",
+        "original": "/assets/images/products/p-11-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-11-4.png",
+        "original": "/assets/images/products/p-11-4.png"
+      }
+    ],
+    "price": 20.0,
+    "sale_price": 17.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The Love Pendant",
+    "description": "Customize this pendant with the name of your loved ones!",
+    "slug": "hm-global-desi",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/new-images/9bf3a904-574a-487d-b7aa-37aa48d04fb0.jpg",
+      "original": "/assets/images/new-images/9bf3a904-574a-487d-b7aa-37aa48d04fb0.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-22-1.png",
+        "original": "/assets/images/products/p-22-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-22-2.png",
+        "original": "/assets/images/products/p-22-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-12-3.png",
+        "original": "/assets/images/products/p-12-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-12-4.png",
+        "original": "/assets/images/products/p-12-4.png"
+      }
+    ],
+    "price": 40.0,
+    "sale_price": 30.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Perfect Wine Glass",
+    "description": "This is the glass which is the glass",
+    "slug": "zara-solly-white-shirt",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/new-images/195C7855-B1AA-4FA3-A8D4-980FA35094CB.jpg",
+      "original": "/assets/images/new-images/195C7855-B1AA-4FA3-A8D4-980FA35094CB.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-18-1.png",
+        "original": "/assets/images/products/p-18-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-18-2.png",
+        "original": "/assets/images/products/p-18-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-18-3.png",
+        "original": "/assets/images/products/p-18-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-18-4.png",
+        "original": "/assets/images/products/p-18-4.png"
+      }
+    ],
+    "price": 32.0,
+    "sale_price": 25.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Memorial Star Map Print",
+    "description": "Memorial Star Map Print",
+    "slug": "hermes-carlton-london",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/new-images/IMG_8500.png",
+      "original": "/assets/images/new-images/IMG_8500.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-14-1.png",
+        "original": "/assets/images/products/p-14-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-14-2.png",
+        "original": "/assets/images/products/p-14-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-14-3.png",
+        "original": "/assets/images/products/p-14-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-14-4.png",
+        "original": "/assets/images/products/p-14-4.png"
+      }
+    ],
+    "price": "",
+    "sale_price": 15.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Personalized Wooden Clock",
+    "description": "A Father’s Love Is Timeless” Wooden Clock",
+    "slug": "scuba-stand-collar-topper-jacket",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/new-images/founders-pick-2.png",
+      "original": "/assets/images/new-images/founders-pick-2.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-15-1.png",
+        "original": "/assets/images/products/p-15-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-15-2.png",
+        "original": "/assets/images/products/p-15-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-15-3.png",
+        "original": "/assets/images/products/p-15-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-15-4.png",
+        "original": "/assets/images/products/p-15-4.png"
+      }
+    ],
+    "price": 16.0,
+    "sale_price": 12.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Armani Wide-Leg Trousers",
+    "description": "Monochrome elegance. Made with a relaxed wide-leg, these trousers are made from a sustainable soft organic cotton with a mechanical stretch making the garment easily recycled.",
+    "slug": "armani-wide-leg-trousers",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/new-images/2db69c6a-3fbd-4469-af1f-dfd1ca32480f.jpg",
+      "original": "/assets/images/new-images/2db69c6a-3fbd-4469-af1f-dfd1ca32480f.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-16-1.png",
+        "original": "/assets/images/products/p-16-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-16-2.png",
+        "original": "/assets/images/products/p-16-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-16-3.png",
+        "original": "/assets/images/products/p-16-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-16-4.png",
+        "original": "/assets/images/products/p-16-4.png"
+      }
+    ],
+    "price": 80.0,
+    "sale_price": 60.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Short Sleeve Shirts For Men",
+    "description": "From casual days out to parties, dinners and other events that call for a dressier look, a short sleeve shirt is a versatile piece that works for all kinds of occasions.",
+    "slug": "short-sleeve-shirts-for-men",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/new-images/IMG_8541.jpg",
+      "original": "/assets/images/new-images/IMG_8541.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-17-1.png",
+        "original": "/assets/images/products/p-17-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-17-2.png",
+        "original": "/assets/images/products/p-17-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-17-3.png",
+        "original": "/assets/images/products/p-17-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-17-4.png",
+        "original": "/assets/images/products/p-17-4.png"
+      }
+    ],
+    "price": 18.99,
+    "sale_price": 12.99,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Blazer And A Neck Scarf",
+    "description": "blue short sleeve basic midi dress featuring a crew neckline in a jersey fabric.",
+    "slug": "blazer-and-a-neck-scarf",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/new-images/195C7855-B1AA-4FA3-A8D4-980FA35094CB.jpg",
+      "original": "/assets/images/new-images/195C7855-B1AA-4FA3-A8D4-980FA35094CB.jpg"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-13-1.png",
+        "original": "/assets/images/products/p-13-1.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-13-2.png",
+        "original": "/assets/images/products/p-13-2.png"
+      }
+    ],
+    "price": 23.0,
+    "sale_price": 13.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Zara Shoes Green",
+    "description": "Footwear refers to garments worn on the feet, which originally serves to purpose of protection against adversities of the environment, usually regarding ground textures and temperature.",
+    "slug": "zara-shoes-green",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-19.png",
+      "original": "/assets/images/products/p-19-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-19-1.png",
+        "original": "/assets/images/products/p-19-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-19-2.png",
+        "original": "/assets/images/products/p-19-2.png"
+      },
+      {
+        "id": 3,
+        "thumbnail": "/assets/images/products/p-19-3.png",
+        "original": "/assets/images/products/p-19-3.png"
+      },
+      {
+        "id": 4,
+        "thumbnail": "/assets/images/products/p-19-4.png",
+        "original": "/assets/images/products/p-19-4.png"
+      }
+    ],
+    "price": 300.0,
+    "sale_price": 250.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Maniac Red Boys",
+    "description": "Sporty essentials, these Under Armour athletic shorts are smooth and lightweight in moisture-wicking material.",
+    "slug": "maniac-red-boys",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-20.png",
+      "original": "/assets/images/products/p-20-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-20-1.png",
+        "original": "/assets/images/products/p-20-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-20-2.png",
+        "original": "/assets/images/products/p-20-2.png"
+      }
+    ],
+    "price": 20.0,
+    "sale_price": 15.0,
+    "variations": [
+      {
+        "id": 1,
+        "value": "S",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "M",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "L",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "XL",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Orange",
+        "meta": "#e86c25",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 6,
+        "value": "Pink",
+        "meta": "#ffa5b4",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 7,
+        "value": "Purple",
+        "meta": "#8224e3",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      },
+      {
+        "id": 8,
+        "value": "Red",
+        "meta": "#dd3333",
+        "attribute": {
+          "id": 1,
+          "name": "Color",
+          "slug": "color"
+        }
+      }
+    ]
+  }
+]

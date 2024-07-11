@@ -1,0 +1,118 @@
+{
+  "id": 1,
+  "sku": "78525FS",
+  "name": "Vases",
+  "description": "Decorative Ceramic Flower Vase (Set of 2, Multi, 9.8 & 5.5 Inches) for Home Décor Flowers Plants Living Room Bedroom Kitchen Office Wall Table Centerpiece Decoration Items",
+  "slug": "vases-product-1",
+  "image": {
+    "id": 1,
+    "thumbnail": "https://m.media-amazon.com/images/I/71d5bM2UF9L._SL1500_.jpg",
+    "original": "https://m.media-amazon.com/images/I/71d5bM2UF9L._SL1500_.jpg"
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "thumbnail": "https://m.media-amazon.com/images/I/71d5bM2UF9L._SL1500_.jpg",
+      "original": "https://m.media-amazon.com/images/I/71d5bM2UF9L._SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://m.media-amazon.com/images/I/81HngxLRqvL._SL1500_.jpg",
+      "original": "https://m.media-amazon.com/images/I/81HngxLRqvL._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://m.media-amazon.com/images/I/817PQCvAc6L._SL1500_.jpg",
+      "original": "https://m.media-amazon.com/images/I/817PQCvAc6L._SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://m.media-amazon.com/images/I/61Mv0rssQmL._SL1500_.jpg",
+      "original": "https://m.media-amazon.com/images/I/61Mv0rssQmL._SL1500_.jpg"
+    }
+  ],
+  "category": {
+    "id": 1,
+    "name": "Home Decor",
+    "slug": "home-decor"
+  },
+  "tags": [
+    {
+      "id": 1,
+      "name": "vases",
+      "slug": "vases"
+    },
+    {
+      "id": 2,
+      "name": "gifts",
+      "slug": "gifts"
+    },
+    {
+      "id": 3,
+      "name": "home decor",
+      "slug": "home-decor"
+    }
+  ],
+  "price": 2000,
+  "sale_price": 1700,
+  "quantity": 20,
+  "variations": [
+    {
+      "id": 5,
+      "value": "White",
+      "meta": "#fff",
+      "attribute": {
+        "id": 1,
+        "name": "Color",
+        "slug": "color"
+      }
+    },
+    {
+      "id": 6,
+      "value": "Pink",
+      "meta": "#ffa5b4",
+      "attribute": {
+        "id": 1,
+        "name": "Color",
+        "slug": "color"
+      }
+    },
+    {
+      "id": 7,
+      "value": "Purple",
+      "meta": "#8224e3",
+      "attribute": {
+        "id": 1,
+        "name": "Color",
+        "slug": "color"
+      }
+    },
+    {
+      "id": 8,
+      "value": "Red",
+      "meta": "#dd3333",
+      "attribute": {
+        "id": 1,
+        "name": "Color",
+        "slug": "color"
+      }
+    }
+  ],
+  "meta": [
+    {
+      "id": 1,
+      "title": "Product Details",
+      "content": "About this item \nPACKAGE CONTENT :- Set of 2 Vases (Flowers not Included) / Size - Large - 25 cm x 10.5cm & Small- 14 cm x 13.5 cm / Material - Ceramic FLOWER VASE FOR TABLE DECOR :- These ceramic vases make beautiful decor accent for your living room decorations, circle vases for centerpieces, bedroom decorations, home decor vases, minimalism home decor ; you can either use them alone, or with other pottery items for home, room decor vases, provide home inetrior decor ideas. SUITABLE SIZE :- The set of 2 different size vases will look great grouped together. There is an art to matching flowers to these elegant vases, exquisite bottle mouth will help support blooms in the best position, this will bring the most attractive display. Even without flowers and these vases can add a touch of bright color to modern space decor.DECORATIVE VASES FOR DÉCOR & GOOD IDEAL GIFT:- vase for centerpiece, farm house, wedding decoration, birthday decor, event, party, anniversary decoration, cafe, restaurant decorations, ceramic flower vase, shelf decor, flower vases, bedroom decor, table decorations, decorative vase for centerpieces, ceramic vase, kitchen table decor, office table decor, home decor items for living room, decoartion item for home, decorative showpiece, vase for gifting, traditional vases for home decorVERSATILE FLOWER VASE :- A ceramic vase is suitable for pampas grass, palm leaves, cherry blossom, stems, eucalyptus, dried flower bouquets, artificial flowers, mini flower, plants, you can either use alone, or with other vase, to create beautiful dining table centerpiece in your home."
+    },
+    {
+      "id": 2,
+      "title": "Additional Information",
+      "content": "This is the Additional Information of the Product"
+    },
+    {
+      "id": 3,
+      "title": "Customer Reviews",
+      "content": "At first, Please check your internet connection . We also have some online video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum."
+    }
+  ]
+}

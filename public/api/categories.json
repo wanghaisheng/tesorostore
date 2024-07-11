@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Planters",
+      "slug": "planter",
+      "productCount": 20,
+      "icon": "/assets/images/categories/planters.jpg",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/categories/planters.jpg",
+        "original": "/assets/images/categories/planters.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Candles",
+      "slug": "Candles",
+      "productCount": 20,
+      "icon": "/assets/images/categories/candles.jpg",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/categories/candles.jpg",
+        "original": "/assets/images/categories/candles.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Vases",
+      "slug": "Vases",
+      "productCount": 20,
+      "icon": "/assets/images/categories/vases.jpg",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/categories/vases.jpg",
+        "original": "/assets/images/categories/vases.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ceramic Bowls",
+      "slug": "ceramic-bowls",
+      "productCount": 20,
+      "icon": "/assets/images/categories/ceramic_bowls.jpg",
+      "image": {
+        "id": 1,
+        "thumbnail":"/assets/images/categories/ceramic_bowls.jpg",
+        "original": "/assets/images/categories/ceramic_bowls.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Glassware",
+      "slug": "glassware",
+      "productCount": 20,
+      "icon": "/assets/images/categories/glassware.jpg",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/categories/glassware.jpg",
+        "original": "/assets/images/categories/glassware.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Customized Gifts",
+      "slug": "custom-gifts",
+      "productCount": 20,
+      "icon": "/assets/images/categories/customized_gifts.jpg",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/categories/customized_gifts.jpg",
+        "original": "/assets/images/categories/customized_gifts.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Handmade",
+      "slug": "handmade",
+      "productCount": 20,
+      "icon": "/assets/images/categories/handmade.jpg",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/categories/handmade.jpg",
+        "original": "/assets/images/categories/handmade.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Sticky Notes",
+      "slug": "sticky-notes",
+      "productCount": 20,
+      "icon": "/assets/images/categories/sticky_notes.jpg",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/categories/sticky_notes.jpg",
+        "original": "/assets/images/categories/sticky_notes.jpg"
+      }
+    }
+  ]
+}

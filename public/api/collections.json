@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Home Decor",
+      "slug": "winter-collection"
+    },
+    {
+      "id": 2,
+      "name": "Stationary",
+      "slug": "summer-collection"
+    },
+    {
+      "id": 3,
+      "name": "Ceramic Bowls",
+      "slug": "wedding-collection"
+    },
+    {
+      "id": 4,
+      "name": "Mugs",
+      "slug": "trekking-collection"
+    },
+    {
+      "id": 5,
+      "name": "Cups",
+      "slug": "gift-collection"
+    },
+    {
+      "id": 6,
+      "name": "Gifs for Him",
+      "slug": "mens-collection"
+    },
+    {
+      "id": 7,
+      "name": "Gifts for Her",
+      "slug": "womens-collection"
+    },
+    {
+      "id": 8,
+      "name": "Handmade Gifts",
+      "slug": "kids-collection"
+    },
+    {
+      "id": 9,
+      "name": "Frames",
+      "slug": "party-collection"
+    },
+    {
+      "id": 10,
+      "name": "Customized Gifts",
+      "slug": "backpack-collection"
+    }
+  ]
+}
